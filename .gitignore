@@ -1,0 +1,18 @@
+# Terraform providers and plugins
+.terraform/
+.terraform.lock.hcl
+
+# State files
+*.tfstate
+*.tfstate.backup
+
+# Plan files
+*.tfplan
+BO_BASTION_TFPLAN
+
+# Variable files with sensitive values
+*.tfvars
+
+# Credentials and keys
+*.pem
+*.key
