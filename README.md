@@ -1,4 +1,4 @@
-# 🏰 Bastion Host — Terraform Infrastructure
+# Bastion Host — Terraform Infrastructure
 
 A production-ready Terraform module for deploying a secure bastion host on AWS. This project provisions an EC2 instance with an associated security group inside an existing VPC, following AWS and Terraform best practices.
 
